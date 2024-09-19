@@ -10,9 +10,9 @@ Graph simulation model for the propagation of forest fires. Case study: natural 
 ### How to install?
 You shall install some libraries:
 
-> python -m pip install -U networkx
-> python -m pip install -U pandas
-> python -m pip install -U PIL
+> python -m pip install -U networkx //
+> python -m pip install -U pandas //
+> python -m pip install -U PIL //
 
 You can obtain pip [here](https://pypi.org/project/pip/).
 
