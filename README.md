@@ -1,7 +1,7 @@
 # UCM-UPM-Wildland-fire-simulation-Valle-de-Iruelas
 
 ### Abstract
-Graph simulation model for the propagation of forest fires. Case study: natural environment of the Iruelas Valley. Master's Degree in Disaster Management UCM UPM
+Graph simulation model for the propagation of forest fires. Case study: natural environment of the Iruelas Valley. Master's Degree in Disaster Management UCM UPM.
 
 ### Content
 - Every code is [here](https://github.com/asevillasastre/Generative-art/tree/main/src).
@@ -19,7 +19,7 @@ You shall install some libraries:
 You can obtain pip [here](https://pypi.org/project/pip/).
 
 ### Author
-Antonio Sevilla, in the class taught by Ana Iglesias
+Antonio Sevilla, in the class taught by Ana Iglesias.
 
 -----------------------------------------------------------------------------
 
