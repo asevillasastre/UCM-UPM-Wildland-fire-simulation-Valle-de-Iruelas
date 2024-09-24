@@ -26,3 +26,5 @@ Antonio Sevilla, in the class taught by Ana Iglesias.
 You may check [my other projects](https://github.com/asevillasastre?tab=repositories) and follow me on [LinkedIn](https://www.linkedin.com/in/asevillasastre/)!
 
 -----------------------------------------------------------------------------
+
+![](https://github.com/asevillasastre/UCM-UPM-Wildland-fire-simulation-Valle-de-Iruelas/blob/main/ejemplo_simulacion.png)
